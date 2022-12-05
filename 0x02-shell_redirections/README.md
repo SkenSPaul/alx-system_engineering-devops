@@ -7,3 +7,4 @@
 6displays the third line of the file iacta.
 7It is a good file that cuts iron without making a noise
 9duplicates the last line of the file iacta
+10deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
