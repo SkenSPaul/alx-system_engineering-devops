@@ -4,3 +4,4 @@
 3Display the content of /etc/passwd and /etc/hosts
 4Display the last 10 lines of /etc/passwd
 5Display the first 10 lines of /etc/passwd
+6displays the third line of the file iacta.
