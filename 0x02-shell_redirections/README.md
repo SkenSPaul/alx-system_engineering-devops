@@ -8,4 +8,7 @@
 7It is a good file that cuts iron without making a noise
 9duplicates the last line of the file iacta
 10deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+11counts the number of directories and sub-directories in the current directory
+12displays the 10 newest files in the current directory
 21script that reverse its input
+
