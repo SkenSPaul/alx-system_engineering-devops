@@ -6,6 +6,7 @@
 5Display the first 10 lines of /etc/passwd
 6displays the third line of the file iacta.
 7It is a good file that cuts iron without making a noise
+8Save current state of directory
 9duplicates the last line of the file iacta
 10deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 11counts the number of directories and sub-directories in the current directory
