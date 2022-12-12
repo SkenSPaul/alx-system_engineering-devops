@@ -1,2 +1,2 @@
-#!/bin/bash
-find .f -name '*.gif' -type f|rev|cut -d . -f 2-|cut -d/ -f1|rev|sort -fV
+i#!/bin/bash
+cut -d: -f 1,6 /etc/passwd | sort
